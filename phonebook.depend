@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577017942 source:c:\users\hp\documents\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.c"
+
+1577018981 c:\users\hp\documents\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1577017942 c:\users\hp\documents\phonebook\phonebook.h
+
+1577018981 source:c:\users\hp\documents\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
